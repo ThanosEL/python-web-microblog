@@ -1,0 +1,4 @@
+flask
+pymongo[srv]
+gunicorn
+python-dotenv
