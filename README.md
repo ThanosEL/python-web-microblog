@@ -19,18 +19,20 @@ The project demonstrates a simple yet functional web application with a backend 
 ⚙️ Installation
 
 To run this project locally, follow these steps:
+
 1. Clone the repository:
+   git clone https://github.com/ThanosEL/python-web-microblog.git
 
 2. Install dependencies:
    pip install -r requirements.txt
 
 3. Create your own MongoDB Atlas cluster
 
-    Sign up at MongoDB Atlas
+    - Sign up at MongoDB Atlas
 
-    Create a free cluster
+    - Create a free cluster
 
-    Get your connection string
+    - Get your connection string
 
 4. Set up environment variables:
    Create a .env file in the project root with:
